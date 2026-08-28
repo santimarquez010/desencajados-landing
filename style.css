@@ -38,6 +38,7 @@
     [data-m="feed-card"] { padding: 22px !important; border-radius: 20px !important; gap: 14px !important; }
     [data-m="feed-card"] li { font-size: 15px !important; }
     [data-m="feed-card"] ul { gap: 10px !important; }
+    #hero-title { text-shadow: 0 4px 22px rgba(0,0,0,.65), 0 0 60px rgba(255,45,138,.35) !important; }
   }
 
 /* hover / focus states */
